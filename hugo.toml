@@ -19,3 +19,7 @@ path = 'https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hypr
 [[params.social]]
 name = "github"
 url = "https://github.com/hyprutils"
+
+[[params.social]]
+name = "bluesky"
+url = "https://bsky.app/profile/hyprutils.github.io"
