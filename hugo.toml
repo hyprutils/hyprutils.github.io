@@ -1,0 +1,21 @@
+baseURL = 'https://hyprutils.github.io/'
+languageCode = 'en-us'
+title = 'HyprUtils'
+theme = 'hello-friend-ng'
+copyright = '<a href="https://github.com/hyprutils/.github/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
+
+[params]
+homeSubtitle = 'Unofficial tools made by the community. Everyone is welcome to contribute.'
+
+description = "Unofficial tools made by the community."
+keywords = "hyprutils, hyprland, wayland, xorg, community, tools"
+images = [""]
+
+[params.logo]
+logoText = "HyprUtils"
+logoHomeLink = "/"
+path = 'https://raw.githubusercontent.com/hyprutils/.github/refs/heads/main/hyprutils_transparent.png'
+
+[[params.social]]
+name = "github"
+url = "https://github.com/hyprutils"
