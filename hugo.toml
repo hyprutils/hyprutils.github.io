@@ -23,3 +23,7 @@ url = "https://github.com/hyprutils"
 [[params.social]]
 name = "bluesky"
 url = "https://bsky.app/profile/hyprutils.github.io"
+
+[[params.social]]
+name = "discord"
+url = "https://discord.gg/JJz2BXuaJF"
